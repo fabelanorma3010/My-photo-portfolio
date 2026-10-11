@@ -203,3 +203,10 @@ header h3 {
 section {
   padding: 30px;
 }
+.card-header.grid {
+  grid-gap: 0;
+}
+embed {
+  width: 100%;
+  aspect-ratio: 1/1;
+}
